@@ -487,11 +487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\somprasonk\\Desktop\\Kan_proj\\00_Practice\\asp.net-project\\api\\api.csproj",
+      "projectUniqueName": "C:\\Users\\somprasonk\\Desktop\\Kan_proj\\00_Practice\\asp.net-project\\backend-dotnet-practice\\api.csproj",
       "projectName": "api",
-      "projectPath": "C:\\Users\\somprasonk\\Desktop\\Kan_proj\\00_Practice\\asp.net-project\\api\\api.csproj",
+      "projectPath": "C:\\Users\\somprasonk\\Desktop\\Kan_proj\\00_Practice\\asp.net-project\\backend-dotnet-practice\\api.csproj",
       "packagesPath": "C:\\Users\\somprasonk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\somprasonk\\Desktop\\Kan_proj\\00_Practice\\asp.net-project\\api\\obj\\",
+      "outputPath": "C:\\Users\\somprasonk\\Desktop\\Kan_proj\\00_Practice\\asp.net-project\\backend-dotnet-practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\somprasonk\\AppData\\Roaming\\NuGet\\NuGet.Config"
