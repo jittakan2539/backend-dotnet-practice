@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\somprasonk\\Desktop\\Kan_proj\\00_Practice\\asp.net-project\\backend-dotnet-practice\\api.csproj": {}
+    "E:\\00_Learn_Programming\\03_C#Learn\\backend-dotnet-practice\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\somprasonk\\Desktop\\Kan_proj\\00_Practice\\asp.net-project\\backend-dotnet-practice\\api.csproj": {
+    "E:\\00_Learn_Programming\\03_C#Learn\\backend-dotnet-practice\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\somprasonk\\Desktop\\Kan_proj\\00_Practice\\asp.net-project\\backend-dotnet-practice\\api.csproj",
+        "projectUniqueName": "E:\\00_Learn_Programming\\03_C#Learn\\backend-dotnet-practice\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\somprasonk\\Desktop\\Kan_proj\\00_Practice\\asp.net-project\\backend-dotnet-practice\\api.csproj",
-        "packagesPath": "C:\\Users\\somprasonk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\somprasonk\\Desktop\\Kan_proj\\00_Practice\\asp.net-project\\backend-dotnet-practice\\obj\\",
+        "projectPath": "E:\\00_Learn_Programming\\03_C#Learn\\backend-dotnet-practice\\api.csproj",
+        "packagesPath": "C:\\Users\\UserPRO\\.nuget\\packages\\",
+        "outputPath": "E:\\00_Learn_Programming\\03_C#Learn\\backend-dotnet-practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\somprasonk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\UserPRO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -47,6 +47,12 @@
               "target": "Package",
               "version": "[8.0.11, )"
             },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
@@ -71,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.307/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
